@@ -1,5 +1,5 @@
 # soccerGame
-a game inspired by the popular Head Soccer mobile game a while ago!  
+a game inspired by the popular Head Soccer mobile game I made a while ago!  
 Requires JavaFX
 
 # Controls:
