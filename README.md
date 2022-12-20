@@ -1,6 +1,6 @@
 # soccerGame
-# a game inspired by the popular Head Soccer mobile game!
-# Requires JavaFX
+a game inspired by the popular Head Soccer mobile game! \n
+Requires JavaFX
 
 # Controls:
 # 1-Player Mode:
